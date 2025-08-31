@@ -1,16 +1,24 @@
 ## Hi there 👋
+PT - Meu nome é Gustavo, me cham de Dev Gus :), atualmente não trabalho em nenhum lugar, ainda sou estudante e pretendo me profissionalizar na área de desenvolvedor/programador quero poder transformar o mundo da tecnologia em um ambiente incrível e cheio de criatividade, smepre gostei de tecnologia, e vou transformar esse hobbie em muito dinheiro e que eu possa sustentavel e minha família e a nova também.
 
-<!--
-**GusLight0/GusLight0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EN - My name is Gustavo, call me Dev Gus :), I currently don't work anywhere, I'm still a student and I intend to become a professional developer/programmer. I want to be able to transform the world of technology into an incredible environment full of creativity, I've always liked technology, and I'm going to transform this hobby into a lot of money and that I can sustain myself and my family and the new one too.
 
-Here are some ideas to get you started:
+## My Skils:
+- HTML
+- CSS
+- GIT
+- FIGMA
+- GITHUB
+# Future skills:
+- JAVASCRIPT
+- REACT.JS
+- NODE.JS
+- TYPESCRIPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objectives:
+  *Me tornar um DESEVOLVEDOR FULL-STACK em 1 ano*
+  *Conseguir meu primeiro emprego na área que eu goste*
+  *Ter um sálario bom e acessível no começo*
+  *Deixar a minha família orgulhosa!*
+
+Welcome to my biography, come back anytime...
