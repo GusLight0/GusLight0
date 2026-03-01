@@ -6,12 +6,16 @@ EN - My name is Gustavo, call me Dev Gus :), I currently don't work anywhere, I'
 ## My Skils:
 - HTML
 - CSS
+- C#
 - GIT
+- ADOBE PHOTOSHOP
+- CANVA
 - FIGMA
 - GITHUB
 # Future skills:
 - JAVASCRIPT
 - REACT.JS
+- REACT NATIVE
 - NODE.JS
 - TYPESCRIPT
 
