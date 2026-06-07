@@ -6,14 +6,17 @@ EN - My name is Gustavo, call me Dev Gus :), I currently don't work anywhere, I'
 ## My Skils:
 - HTML
 - CSS
-- C#
+- JavaScript
 - GIT
 - ADOBE PHOTOSHOP
 - CANVA
+- Netlify
 - FIGMA
 - GITHUB
 # Future skills:
-- JAVASCRIPT
+- Vue
+- Angular
+- Consumo de APIs
 - REACT.JS
 - REACT NATIVE
 - NODE.JS
